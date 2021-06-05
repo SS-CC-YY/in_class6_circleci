@@ -15,4 +15,4 @@ class TestCalculatorAPP:
         assert 15 == calculator.multyply(3, 5)
 
     def test_div(self):
-        assert 3 ==calculator.divide(15,5)
+        assert 3 == calculator.divide(15,5)
