@@ -6,10 +6,10 @@ import calculator
 
 class TestCalculatorAPP:
     def test_add(self):
-        assert 5 == calculator.add(2,3)
+        assert 5 == calculator.add(2, 3)
 
     def test_subtract(self):
-        assert 5 == calculator.subtract(8,3)
+        assert 5 == calculator.subtract(8, 3)
 
     def test_mul(self):
-        assert 15 == calculator.multyply(3,5)
+        assert 15 == calculator.multyply(3, 5)

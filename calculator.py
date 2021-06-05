@@ -9,3 +9,7 @@ def add(a, b):
 
 def subtract(a, b):
     return a - b
+
+
+def mulityply(a, b):
+    return a * b
