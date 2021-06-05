@@ -10,3 +10,6 @@ class TestCalculatorAPP:
 
     def test_subtract(self):
         assert 5 == calculator.subtract(8,3)
+
+    def test_mul(self):
+        assert 15 == calculator.multyply(3,5)
